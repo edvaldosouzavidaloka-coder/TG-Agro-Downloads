@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "TGIA Gostivo",
+  "short_name": "TGIA",
+  "description": "A sua inteligência artificial para games, projetos e vida real.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090a0d",
+  "theme_color": "#cc172e",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
